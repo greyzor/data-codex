@@ -13,3 +13,5 @@ matplotlib
 keras
 tensorflow
 aisimplekit
+elephas
+pyspark
